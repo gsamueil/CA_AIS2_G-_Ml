@@ -1,10 +1,6 @@
-''' 
-this module very important for python 
+'''   
+this app help user to find anything
 
 
 
 '''
-
-
-x=5
-print(x)
